@@ -1,4 +1,4 @@
-# pa5 : List ADT and Shuffle Program
+# List ADT and Shuffle Program
 
 ## Files:
 
